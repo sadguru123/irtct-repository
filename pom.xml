@@ -7,10 +7,9 @@
   <version>1.1-SNAPSHOT</version>
   <name>irtct-app Maven Webapp</name>
   <url>http://maven.apache.org</url>
-   <properties>
-	<sonar.host.url>http://13.232.186.118:9000/</sonar.host.url>
-	<sonar.login>admin</sonar.login>
-	<sonar.password>admin</sonar.password>
+  <properties>
+	<sonar.host.url>http://43.205.140.32:9000/</sonar.host.url>
+	<sonar.login>a92fae181e3ff9415952f857da5891d02183ebe6</sonar.login>
    </properties>
   <dependencies>
     <dependency>
